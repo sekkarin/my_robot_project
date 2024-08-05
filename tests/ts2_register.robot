@@ -7,6 +7,7 @@ Resource    ../resources/key.robot
 Search by Keyword TC1003
     [Documentation]    Test case to search by check categoty and verify results
     [Tags]    register
+
     Open Website
     Click Link Menu
     Check Categoty
